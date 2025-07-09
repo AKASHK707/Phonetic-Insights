@@ -36,6 +36,10 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             question: "Which sounds are nasal consonants?",
             answer: "/m/, /n/, and /ŋ/"
+        },
+        {
+            question: "What is the IPA  Transcription of the word bread.",
+            answer: /brɛd/
         }
     ];
 
